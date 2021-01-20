@@ -5,6 +5,7 @@ print(a)
 
 print()
 
+
 b = [1, 2, 'abc', 'def'] 
 print(b) 
 print(b[2]) 
