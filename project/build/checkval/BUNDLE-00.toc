@@ -1,0 +1,3 @@
+([('checkval',
+   '/Users/scott/Desktop/Desktop/Python/project/dist/checkval',
+   'EXECUTABLE')],)
