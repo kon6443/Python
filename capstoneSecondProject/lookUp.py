@@ -14,7 +14,7 @@ def init():
   #print("while indexNum: ", indexNum) # testing while loop
   getKeyStroke = keyStroke()
   for row in data:
-   print("for indexNum: ", indexNum) # testing for loop
+   #print("for indexNum: ", indexNum) # testing for loop
    if row[9][indexNum].lower() == getKeyStroke :
     print(row[9])
   indexNum += 1
